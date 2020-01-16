@@ -79,5 +79,6 @@ line-height: 200%;
 }
 
 .story-text, p {
-line-height: normal;
+line-height: 150%;
+margin-bottom: 1.5em;
 }
